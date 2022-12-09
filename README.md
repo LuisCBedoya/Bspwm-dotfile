@@ -3,6 +3,7 @@ Configuration files for linux personal workspace 2022.
 
 ![screen](https://user-images.githubusercontent.com/90487955/206612737-6fb1f4b8-e1ff-4a54-8b63-a153f5dd6d8a.png)
 
+![galaxy](https://user-images.githubusercontent.com/90487955/206738586-94f96181-1be3-4a04-8732-2882d3fccded.jpeg)
 
 ### Distribución
 
@@ -28,3 +29,4 @@ Configuration files for linux personal workspace 2022.
 - **theme** : Nord
 - **Icons**: Qogir-Dark
 - **screen**: scrot
+
