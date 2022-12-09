@@ -1,0 +1,117 @@
+2022-12-08 17:05:02.925 [info] [perf] Render performance baseline is 62ms
+2022-12-08 17:19:08.011 [error] Server returned 404: Error: Server returned 404
+    at b (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:643:20689)
+    at C.readExtensionResource (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:772:5643)
+    at async c.a (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2154:21186)
+    at async ne.T (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2452:2787)
+2022-12-08 17:19:12.636 [error] Server returned 404: Error: Server returned 404
+    at b (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:643:20689)
+    at C.readExtensionResource (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:772:5643)
+    at async c.a (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2154:21186)
+    at async ne.T (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2452:2787)
+2022-12-08 17:19:12.884 [error] Problems processing product icons definitions in https://rubenverg.vscode-unpkg.net/RubenVerg/bootstrap-product-icons/1.0.2/extension/icons/bootstrap-product-icon-theme.json:
+Invalid font weight in font 'bi'. Ignoring setting.
+Invalid font style in font 'bi'. Ignoring setting.
+Invalid font weight in font 'fira'. Ignoring setting.
+Invalid font style in font 'fira'. Ignoring setting.
+2022-12-08 17:19:16.284 [error] Server returned 404: Error: Server returned 404
+    at b (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:643:20689)
+    at C.readExtensionResource (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:772:5643)
+    at async c.a (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2154:21186)
+    at async ne.T (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2452:2787)
+2022-12-08 17:19:19.084 [error] Server returned 404: Error: Server returned 404
+    at b (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:643:20689)
+    at C.readExtensionResource (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:772:5643)
+    at async c.a (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2154:21186)
+    at async ne.T (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2452:2787)
+2022-12-08 17:19:33.229 [error] Problems processing product icons definitions in https://flippidippi.vscode-unpkg.net/flippidippi/flippidippi-theme/0.0.8/extension/themes/product-icon-theme.json:
+Skipping icon definition 'array'. Unknown fontCharacter.
+Skipping icon definition 'bracket-dot'. Unknown fontCharacter.
+Skipping icon definition 'bracket-error'. Unknown fontCharacter.
+Skipping icon definition 'bracket'. Unknown fontCharacter.
+Skipping icon definition 'chevron-down'. Unknown fontCharacter.
+Skipping icon definition 'chevron-left'. Unknown fontCharacter.
+Skipping icon definition 'chevron-right'. Unknown fontCharacter.
+Skipping icon definition 'chevron-up'. Unknown fontCharacter.
+Skipping icon definition 'circle-filled'. Unknown fontCharacter.
+Skipping icon definition 'circle-large-filled'. Unknown fontCharacter.
+Skipping icon definition 'circle-large-outline'. Unknown fontCharacter.
+Skipping icon definition 'circle-outline'. Unknown fontCharacter.
+Skipping icon definition 'circuit-board'. Unknown fontCharacter.
+Skipping icon definition 'close'. Unknown fontCharacter.
+Skipping icon definition 'close-dirty'. Unknown fontCharacter.
+Skipping icon definition 'code'. Unknown fontCharacter.
+Skipping icon definition 'compass-active'. Unknown fontCharacter.
+Skipping icon definition 'console'. Unknown fontCharacter.
+Skipping icon definition 'debug-all'. Unknown fontCharacter.
+Skipping icon definition 'debug-breakpoint'. Unknown fontCharacter.
+Skipping icon definition 'debug-breakpoint-conditional'. Unknown fontCharacter.
+Skipping icon definition 'debug-breakpoint-conditional-disabled'. Unknown fontCharacter.
+Skipping icon definition 'debug-breakpoint-conditional-unverified'. Unknown fontCharacter.
+Skipping icon definition 'debug-breakpoint-data'. Unknown fontCharacter.
+Skipping icon definition 'debug-breakpoint-data-disabled'. Unknown fontCharacter.
+Skipping icon definition 'debug-breakpoint-data-unverified'. Unknown fontCharacter.
+Skipping icon definition 'debug-breakpoint-disabled'. Unknown fontCharacter.
+Skipping icon definition 'debug-breakpoint-function'. Unknown fontCharacter.
+Skipping icon definition 'debug-breakpoint-function-disabled'. Unknown fontCharacter.
+Skipping icon definition 'debug-breakpoint-function-unverified'. Unknown fontCharacter.
+Skipping icon definition 'debug-breakpoint-log'. Unknown fontCharacter.
+Skipping icon definition 'debug-breakpoint-log-disabled'. Unknown fontCharacter.
+Skipping icon definition 'debug-breakpoint-log-unverified'. Unknown fontCharacter.
+Skipping icon definition 'debug-breakpoint-unsupported'. Unknown fontCharacter.
+Skipping icon definition 'debug-breakpoint-unverified'. Unknown fontCharacter.
+Skipping icon definition 'debug-console'. Unknown fontCharacter.
+Skipping icon definition 'debug-continue-small'. Unknown fontCharacter.
+Skipping icon definition 'debug-continue'. Unknown fontCharacter.
+Skipping icon definition 'debug-coverage'. Unknown fontCharacter.
+Skipping icon definition 'debug-disconnect'. Unknown fontCharacter.
+Skipping icon definition 'debug-hint'. Unknown fontCharacter.
+Skipping icon definition 'debug-line-by-line'. Unknown fontCharacter.
+Skipping icon definition 'debug-rerun'. Unknown fontCharacter.
+Skipping icon definition 'debug-restart-frame'. Unknown fontCharacter.
+Skipping icon definition 'debug-reverse-continue'. Unknown fontCharacter.
+Skipping icon definition 'debug-stackframe'. Unknown fontCharacter.
+Skipping icon definition 'debug-stackframe-active'. Unknown fontCharacter.
+Skipping icon definition 'debug-stackframe-dot'. Unknown fontCharacter.
+Skipping icon definition 'debug-stackframe-focused'. Unknown fontCharacter.
+Skipping icon definition 'debug-start'. Unknown fontCharacter.
+Skipping icon definition 'debug-step-back'. Unknown fontCharacter.
+Skipping icon definition 'debug-step-into'. Unknown fontCharacter.
+Skipping icon definition 'debug-step-out'. Unknown fontCharacter.
+Skipping icon definition 'debug-step-over'. Unknown fontCharacter.
+Skipping icon definition 'diff'. Unknown fontCharacter.
+Skipping icon definition 'diff-added'. Unknown fontCharacter.
+Skipping icon definition 'diff-ignored'. Unknown fontCharacter.
+Skipping icon definition 'diff-modified'. Unknown fontCharacter.
+Skipping icon definition 'diff-removed'. Unknown fontCharacter.
+Skipping icon definition 'diff-renamed'. Unknown fontCharacter.
+Skipping icon definition 'editor-layout'. Unknown fontCharacter.
+Skipping icon definition 'ellipsis'. Unknown fontCharacter.
+Skipping icon definition 'empty-window'. Unknown fontCharacter.
+Skipping icon definition 'error-small'. Unknown fontCharacter.
+Skipping icon definition 'exclude'. Unknown fontCharacter.
+Skipping icon definition 'expand-all'. Unknown fontCharacter.
+Skipping icon definition 'export'. Unknown fontCharacter.
+Skipping icon definition 'file-binary'. Unknown fontCharacter.
+Skipping icon definition 'file-code'. Unknown fontCharacter.
+Skipping icon definition 'file-pdf'. Unknown fontCharacter.
+Skipping icon definition 'file-submodule'. Unknown fontCharacter.
+Skipping icon definition 'file-symlink-directory'. Unknown fontCharacter.
+Skipping icon definition 'file-symlink-file'. Unknown fontCharacter.
+Skipping icon definition 'file-zip'. Unknown fontCharacter.
+Skipping icon definition 'filter-filled'. Unknown fontCharacter.
+Skipping icon definition 'fold'. Unknown fontCharacter.
+Skipping icon definition 'fold-down'. Unknown fontCharacter.
+Skipping icon definition 'folder-active'. Unknown fontCharacter.
+Skipping icon definition 'folder-library'. Unknown fontCharacter.
+Skipping icon definition 'gather'. Unknown fontCharacter.
+Skipping icon definition 'git-commit'. Unknown fontCharacter.
+Skipping icon definition 'git-merge'. Unknown fontCharacter.
+Skipping icon definition 'git-pull-request'. Unknown fontCharacter.
+Skipping icon definition 'git-pull-request-abandoned'. Unknown fontCharacter.
+Skipping icon definition 'git-pull-request-closed'. Unknown fontCharacter.
+Skipping icon definition 'git-pull-request-create'. Unknown fontCharacter.
+Skipping icon definition 'git-pull-request-draft'. Unknown fontCharacter.
+Skipping icon definition 'graph-scatter'. Unknown fontCharacter.
+2022-12-08 17:19:41.021 [error] RequestService#request (browser) - error https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery {"name":"Canceled"}
+2022-12-08 19:26:54.839 [error] ENOENT: no such file or directory, open '/home/luc/.config/Code/User/globalStorage/vscodevim.vim/.registers': Error: ENOENT: no such file or directory, open '/home/luc/.config/Code/User/globalStorage/vscodevim.vim/.registers'

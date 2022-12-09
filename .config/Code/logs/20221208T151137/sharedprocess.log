@@ -1,0 +1,27 @@
+2022-12-08 15:11:41.975 [info] Starting worker process with pid 87992 (type: fileWatcher, window: 1).
+2022-12-08 15:29:05.669 [info] Worker process with pid 87992 terminated normally (type: fileWatcher, window: 1).
+2022-12-08 15:29:06.429 [info] Starting worker process with pid 91389 (type: fileWatcher, window: 1).
+2022-12-08 15:29:17.851 [info] Getting Manifest... arcticicestudio.nord-visual-studio-code
+2022-12-08 15:29:17.856 [info] Installing extension: arcticicestudio.nord-visual-studio-code
+2022-12-08 15:29:19.392 [info] Extracted extension to /home/luc/.vscode/extensions/.dc67d31f-e2b5-4310-b4b8-4740b96b07ec: arcticicestudio.nord-visual-studio-code
+2022-12-08 15:29:19.472 [info] Renamed to /home/luc/.vscode/extensions/arcticicestudio.nord-visual-studio-code-0.19.0
+2022-12-08 15:29:19.480 [info] Extracting completed. arcticicestudio.nord-visual-studio-code
+2022-12-08 15:29:19.548 [info] Extension installed successfully: arcticicestudio.nord-visual-studio-code
+2022-12-08 15:45:49.261 [info] Getting Manifest... s-nlf-fh.glassit
+2022-12-08 15:45:49.267 [info] Installing extension: s-nlf-fh.glassit
+2022-12-08 15:45:54.136 [info] Extracted extension to /home/luc/.vscode/extensions/.e34afcd5-cbdc-4ee5-a2a0-a99c34e6f8c0: s-nlf-fh.glassit
+2022-12-08 15:45:54.210 [info] Renamed to /home/luc/.vscode/extensions/s-nlf-fh.glassit-0.2.4
+2022-12-08 15:45:54.212 [info] Extracting completed. s-nlf-fh.glassit
+2022-12-08 15:45:54.265 [info] Extension installed successfully: s-nlf-fh.glassit
+2022-12-08 15:47:28.410 [info] Worker process with pid 91389 terminated normally (type: fileWatcher, window: 1).
+2022-12-08 15:47:29.389 [info] Starting worker process with pid 96636 (type: fileWatcher, window: 1).
+2022-12-08 15:47:55.632 [info] Worker process with pid 96636 terminated normally (type: fileWatcher, window: 1).
+2022-12-08 15:47:56.790 [info] Starting worker process with pid 96824 (type: fileWatcher, window: 1).
+2022-12-08 15:48:04.363 [info] Uninstalling extension from the profile: s-nlf-fh.glassit@0.2.4 vscode-userdata:/home/luc/.vscode/extensions/extensions.json
+2022-12-08 15:48:04.466 [info] Marked extension as uninstalled s-nlf-fh.glassit-0.2.4
+2022-12-08 15:48:04.745 [info] Successfully uninstalled extension from the profile s-nlf-fh.glassit@0.2.4 vscode-userdata:/home/luc/.vscode/extensions/extensions.json
+2022-12-08 15:48:17.271 [info] Uninstalling extension from the profile: dlasagno.wal-theme@1.2.0 vscode-userdata:/home/luc/.vscode/extensions/extensions.json
+2022-12-08 15:48:17.318 [info] Marked extension as uninstalled dlasagno.wal-theme-1.2.0
+2022-12-08 15:48:17.596 [info] Successfully uninstalled extension from the profile dlasagno.wal-theme@1.2.0 vscode-userdata:/home/luc/.vscode/extensions/extensions.json
+2022-12-08 15:48:18.692 [info] Worker process with pid 96824 terminated normally (type: fileWatcher, window: 1).
+2022-12-08 15:48:19.584 [info] Starting worker process with pid 97013 (type: fileWatcher, window: 1).

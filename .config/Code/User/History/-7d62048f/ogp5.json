@@ -1,0 +1,26 @@
+{
+    //
+    //No Startup editor
+    "workbench.startupEditor": "none",
+    // Themes vscode - extensions
+    "workbench.colorTheme": "Nord",
+    // Fonts vscode and terminal - fonts local 
+    "editor.fontFamily": "'Victor Mono'",
+    "editor.fontLigatures": "'ss01'",
+    "editor.tabSize": 4,
+    "editor.fontWeight": "bold",
+    "editor.fontSize": 16,
+    "terminal.integrated.defaultProfile.osx": "zsh",
+    "terminal.external.osxExec": "iTerm.app",
+    "terminal.integrated.fontFamily": "Hack Nerd Font",
+    //Product Icons - extensions
+    "workbench.productIconTheme": "feather-vscode",
+    //Iconthemes - extensions
+    "workbench.iconTheme": "material-icon-theme",
+    //sidebar Location Rigth - local
+    "workbench.sideBar.location": "right",
+    //type cursor - Local
+    "editor.cursorBlinking": "expand",
+    //other extensions rain brackets
+    
+}

@@ -1,0 +1,10 @@
+{
+    "workbench.colorTheme": "Wal",
+    "editor.fontFamily": "'Victor Mono'",
+    "editor.fontLigatures": "'ss01'",
+    "editor.fontWeight": "900",
+    "editor.fontSize": 16,
+
+    "terminal.external.osxExec": "Terminal.app",
+    "terminal.integrated.fontFamily": "Victor Mono"
+}

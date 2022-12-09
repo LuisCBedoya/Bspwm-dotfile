@@ -1,0 +1,9 @@
+{
+    "editor.fontFamily": "'Victor Mono'",
+    "editor.fontLigatures": "'ss01'",
+    "editor.fontWeight": "bold",
+    "terminal.integrated.fontFamily": "Fira Code",
+    "editor.fontSize": 16,
+    "workbench.colorTheme": "Nord",
+    
+}

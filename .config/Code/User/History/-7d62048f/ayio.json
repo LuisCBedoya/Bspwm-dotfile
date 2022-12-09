@@ -1,0 +1,19 @@
+{
+    // Themes vscode
+    "workbench.colorTheme": "Nord",
+    // Fonts vscode and terminal 
+    "editor.fontFamily": "'Victor Mono'",
+    "editor.fontLigatures": "'ss01'",
+    "editor.fontWeight": "bold",
+    "editor.fontSize": 16,
+    "terminal.integrated.defaultProfile.osx": "zsh",
+    "terminal.external.osxExec": "iTerm.app",
+    "terminal.integrated.fontFamily": "Hack Nerd Font",
+    //Product Icons
+    "workbench.productIconTheme": "feather-vscode",
+    //Iconthemes
+    "workbench.iconTheme": "material-icon-theme",
+    //sidebar Location derecha
+    "workbench.sideBar.location": "right",
+    "editor.cursorBlinking": "expand",
+}

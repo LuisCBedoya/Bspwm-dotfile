@@ -1,0 +1,10 @@
+{
+    "workbench.colorTheme": "Wal",
+    "editor.fontFamily": "'Victor Mono'",
+    "editor.fontLigatures": "'ss01'",
+    "editor.fontWeight": "bold",
+    "editor.font":"italic",
+    "terminal.integrated.profiles.linux": "zsh",
+    "editor.fontSize": 16,
+    "terminal.integrated.fontFamily": "Victor Mono"
+}
