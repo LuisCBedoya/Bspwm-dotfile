@@ -11,6 +11,9 @@ Configuration files for linux personal workspace 2022.
 
 ![2022-12-14-180309_1920x1080_scrot](https://user-images.githubusercontent.com/90487955/207734200-41c14b8a-e8c0-470d-9b41-6285a5e0e1fa.png)
 
+![2022-12-14-180447_1920x1080_scrot](https://user-images.githubusercontent.com/90487955/207734378-5d53456d-ac78-441e-a98d-07120dc55982.png)
+
+
 ### Distribución
 
 -  **EndeavourOS**
