@@ -14,11 +14,11 @@ export ZSH="$HOME/.oh-my-zsh"
 #theme zsh
 ZSH_THEME="powerlevel10k/powerlevel10k"
 
-bindkey '^[[a' backward-delete-word
+bindkey '^a' backward-delete-word
  
-bindkey '^[[d' forward-word
+bindkey '^zd' forward-word
 
-bindkey '^[[x' backward-delete-char
+bindkey '^[x' backward-delete-char
 
 # Set list of themes to pick from when loading at random
 # Setting this variable when ZSH_THEME=random will cause zsh to load
