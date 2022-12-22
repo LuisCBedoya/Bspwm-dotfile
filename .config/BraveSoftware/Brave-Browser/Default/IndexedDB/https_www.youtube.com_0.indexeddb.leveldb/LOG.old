@@ -1,6 +1,0 @@
-2022/12/08-12:03:43.687 58dc Reusing MANIFEST /home/luc/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/12/08-12:03:43.687 58dc Recovering log #3
-2022/12/08-12:03:44.228 58dc Reusing old log /home/luc/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000003.log 
-2022/12/08-13:49:17.725 111a3 Level-0 table #5: started
-2022/12/08-13:49:17.788 111a3 Level-0 table #5: 991623 bytes OK
-2022/12/08-13:49:17.838 111a3 Delete type=0 #3
