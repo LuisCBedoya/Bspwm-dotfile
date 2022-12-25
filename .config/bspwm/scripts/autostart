@@ -1,0 +1,24 @@
+#! /bin/sh
+
+pkill /usr/bin/dunst
+/usr/bin/dunst &
+
+
+~/.config/bspwm/scripts/low_bat_notifier.sh
+
+pkill /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
+/usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 &
+
+pkill picom
+picom &
+
+pkill polybar
+~/.config/polybar/launch &
+
+pkill nitrogen
+nitrogen --restore &
+
+xsetroot -cursor_name left_ptr
+
+
+
