@@ -1,0 +1,35 @@
+#! /bin/sh
+
+#
+# Autostart
+#
+
+# Bar
+pkill polybar
+~/.config/polybar/launch &
+
+# Notifications
+pkill /usr/bin/dunst
+/usr/bin/dunst &
+
+# Polkit
+pkill /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
+/usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 &
+
+# Wallpaper
+pkill nitrogen
+nitrogen --restore &
+
+
+#picom
+pkill picom
+picom &
+
+# Cursor
+xsetroot -cursor_name left_ptr &
+
+# Low battery notifier
+~/.config/bspwm/scripts/low_bat_notifier.sh
+
+
+

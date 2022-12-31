@@ -1,0 +1,14 @@
+{
+    "workbench.startupEditor": "none",
+    "editor.fontFamily": "'Victor Mono'",
+    "editor.fontLigatures": "'ss01'",
+    "editor.tabSize": 4,
+    "editor.fontWeight": "bold",
+    "editor.fontSize": 16,
+    "terminal.integrated.defaultProfile.osx": "zsh",
+    "terminal.external.osxExec": "iTerm.app",
+    "terminal.integrated.fontFamily": "Hack Nerd Font",
+    "workbench.sideBar.location": "right",
+    "editor.cursorBlinking": "expand",
+    "workbench.colorTheme": "Tokyo Night",
+}

@@ -1,0 +1,10 @@
+2022-12-30 20:25:40.792 [info] update#setState idle
+2022-12-30 20:25:42.872 [info] Starting extension host with pid 60417 (fork() took 41 ms).
+2022-12-30 20:26:10.773 [info] update#setState checking for updates
+2022-12-30 20:26:10.937 [info] update#setState idle
+2022-12-30 20:31:03.173 [info] update#setState checking for updates
+2022-12-30 20:31:08.759 [info] update#setState idle
+2022-12-30 20:34:33.418 [info] update#setState checking for updates
+2022-12-30 20:34:34.024 [info] update#setState idle
+2022-12-30 20:39:06.285 [info] Waiting for extension host with pid 60417 to exit.
+2022-12-30 20:39:06.328 [info] Extension host with pid 60417 exited with code: 0, signal: null.
