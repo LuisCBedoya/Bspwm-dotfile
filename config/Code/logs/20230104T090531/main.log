@@ -1,8 +1,0 @@
-2023-01-04 09:05:32.669 [info] update#setState idle
-2023-01-04 09:05:36.928 [info] Starting extension host with pid 5567 (fork() took 62 ms).
-2023-01-04 09:06:02.681 [info] update#setState checking for updates
-2023-01-04 09:06:02.842 [info] update#setState idle
-2023-01-04 10:06:02.702 [info] update#setState checking for updates
-2023-01-04 10:06:03.290 [info] update#setState idle
-2023-01-04 10:23:19.148 [info] Waiting for extension host with pid 5567 to exit.
-2023-01-04 10:23:19.784 [info] Extension host with pid 5567 exited with code: 0, signal: null.

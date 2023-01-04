@@ -1,2 +1,0 @@
-2023-01-04 10:23:24.611 [info] [perf] Render performance baseline is 76ms
-2023-01-04 10:23:25.480 [error] ENOENT: no such file or directory, open '/home/luc/.config/Code/User/globalStorage/vscodevim.vim/.registers': Error: ENOENT: no such file or directory, open '/home/luc/.config/Code/User/globalStorage/vscodevim.vim/.registers'
