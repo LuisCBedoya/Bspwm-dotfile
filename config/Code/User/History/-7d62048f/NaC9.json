@@ -1,0 +1,14 @@
+{
+    "workbench.startupEditor": "none",
+    "terminal.integrated.defaultProfile.osx": "zsh",
+    "terminal.external.osxExec": "iTerm.app",
+    "terminal.integrated.fontFamily": "Hack Nerd Font",
+    "editor.cursorBlinking": "expand",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.minimap.enabled": false,
+    "editor.fontFamily": "'Hack Nerd Font'",
+    "editor.fontLigatures": "'ss01'",
+    "editor.tabSize": 4,
+    "editor.fontWeight": "500",
+    "editor.fontSize": 16,
+}

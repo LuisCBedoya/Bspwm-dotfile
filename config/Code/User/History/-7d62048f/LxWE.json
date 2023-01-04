@@ -1,0 +1,18 @@
+{
+    "workbench.startupEditor": "none",
+    "terminal.integrated.defaultProfile.linux": "zsh",
+    "terminal.external.linuxExec": "kitty",
+    "terminal.integrated.fontFamily": "Hack Nerd Font",
+    "editor.cursorBlinking": "expand",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontFamily": "'Victor Mono'",
+    "editor.fontLigatures": "'ss01'",
+    "editor.tabSize": 4,
+    "editor.fontWeight": "700",
+    "editor.fontSize": 14,
+    "workbench.colorTheme": "Tokyo Night",
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    
+}

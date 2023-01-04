@@ -1,0 +1,49 @@
+2023-01-04 09:05:39.085 [info] Starting worker process with pid 5634 (type: fileWatcher, window: 1).
+2023-01-04 10:07:19.802 [info] Getting Manifest... ecmel.vscode-html-css
+2023-01-04 10:07:19.807 [info] Installing extension: ecmel.vscode-html-css
+2023-01-04 10:07:21.316 [info] Extracted extension to /home/luc/.vscode/extensions/.5b98d3c2-84ca-499b-898f-5dd686951ef9: ecmel.vscode-html-css
+2023-01-04 10:07:21.342 [info] Renamed to /home/luc/.vscode/extensions/ecmel.vscode-html-css-1.13.1
+2023-01-04 10:07:21.343 [info] Extracting completed. ecmel.vscode-html-css
+2023-01-04 10:07:21.366 [info] Extension installed successfully: ecmel.vscode-html-css
+2023-01-04 10:08:37.057 [info] Getting Manifest... zignd.html-css-class-completion
+2023-01-04 10:08:37.063 [info] Installing extension: zignd.html-css-class-completion
+2023-01-04 10:08:39.887 [info] Extracted extension to /home/luc/.vscode/extensions/.571ab7e6-4a0a-4c48-937c-ab6d24485a4a: zignd.html-css-class-completion
+2023-01-04 10:08:39.950 [info] Renamed to /home/luc/.vscode/extensions/zignd.html-css-class-completion-1.20.0
+2023-01-04 10:08:39.955 [info] Extracting completed. zignd.html-css-class-completion
+2023-01-04 10:08:39.988 [info] Extension installed successfully: zignd.html-css-class-completion
+2023-01-04 10:09:22.934 [info] Getting Manifest... pranaygp.vscode-css-peek
+2023-01-04 10:09:22.941 [info] Installing extension: pranaygp.vscode-css-peek
+2023-01-04 10:09:29.721 [info] Extracted extension to /home/luc/.vscode/extensions/.de5262c3-2499-430a-b05f-03ecdd8c63ab: pranaygp.vscode-css-peek
+2023-01-04 10:09:29.771 [info] Renamed to /home/luc/.vscode/extensions/pranaygp.vscode-css-peek-4.2.0
+2023-01-04 10:09:29.776 [info] Extracting completed. pranaygp.vscode-css-peek
+2023-01-04 10:09:29.814 [info] Extension installed successfully: pranaygp.vscode-css-peek
+2023-01-04 10:10:18.591 [info] Getting Manifest... formulahendry.auto-close-tag
+2023-01-04 10:10:18.599 [info] Installing extension: formulahendry.auto-close-tag
+2023-01-04 10:10:19.868 [info] Extracted extension to /home/luc/.vscode/extensions/.c60eea96-3488-442e-91a8-6dd888932188: formulahendry.auto-close-tag
+2023-01-04 10:10:19.890 [info] Renamed to /home/luc/.vscode/extensions/formulahendry.auto-close-tag-0.5.14
+2023-01-04 10:10:19.894 [info] Extracting completed. formulahendry.auto-close-tag
+2023-01-04 10:10:19.928 [info] Extension installed successfully: formulahendry.auto-close-tag
+2023-01-04 10:10:40.965 [info] Getting Manifest... formulahendry.auto-rename-tag
+2023-01-04 10:10:40.972 [info] Installing extension: formulahendry.auto-rename-tag
+2023-01-04 10:10:42.122 [info] Extracted extension to /home/luc/.vscode/extensions/.9ea85c2e-f0d7-47e5-b115-a3aa25c08d1d: formulahendry.auto-rename-tag
+2023-01-04 10:10:42.149 [info] Renamed to /home/luc/.vscode/extensions/formulahendry.auto-rename-tag-0.1.10
+2023-01-04 10:10:42.150 [info] Extracting completed. formulahendry.auto-rename-tag
+2023-01-04 10:10:42.177 [info] Extension installed successfully: formulahendry.auto-rename-tag
+2023-01-04 10:10:58.627 [info] Getting Manifest... streetsidesoftware.code-spell-checker
+2023-01-04 10:10:58.639 [info] Installing extension: streetsidesoftware.code-spell-checker
+2023-01-04 10:11:00.444 [info] Extracted extension to /home/luc/.vscode/extensions/.20d3dc3e-fd17-41f0-883a-84b0e5f5ca80: streetsidesoftware.code-spell-checker
+2023-01-04 10:11:00.500 [info] Renamed to /home/luc/.vscode/extensions/streetsidesoftware.code-spell-checker-2.12.0
+2023-01-04 10:11:00.508 [info] Extracting completed. streetsidesoftware.code-spell-checker
+2023-01-04 10:11:00.557 [info] Extension installed successfully: streetsidesoftware.code-spell-checker
+2023-01-04 10:11:09.305 [info] Getting Manifest... christian-kohler.path-intellisense
+2023-01-04 10:11:09.317 [info] Installing extension: christian-kohler.path-intellisense
+2023-01-04 10:11:10.622 [info] Extracted extension to /home/luc/.vscode/extensions/.8c52bf03-7016-4eb1-808b-6e161aac0044: christian-kohler.path-intellisense
+2023-01-04 10:11:10.648 [info] Renamed to /home/luc/.vscode/extensions/christian-kohler.path-intellisense-2.8.4
+2023-01-04 10:11:10.649 [info] Extracting completed. christian-kohler.path-intellisense
+2023-01-04 10:11:10.672 [info] Extension installed successfully: christian-kohler.path-intellisense
+2023-01-04 10:23:04.047 [info] Getting Manifest... janne252.fontawesome-autocomplete
+2023-01-04 10:23:04.052 [info] Installing extension: janne252.fontawesome-autocomplete
+2023-01-04 10:23:06.617 [info] Extracted extension to /home/luc/.vscode/extensions/.a4f26433-05f6-45bb-9c33-9d719cec1841: janne252.fontawesome-autocomplete
+2023-01-04 10:23:06.778 [info] Renamed to /home/luc/.vscode/extensions/janne252.fontawesome-autocomplete-1.3.1
+2023-01-04 10:23:06.785 [info] Extracting completed. janne252.fontawesome-autocomplete
+2023-01-04 10:23:06.830 [info] Extension installed successfully: janne252.fontawesome-autocomplete

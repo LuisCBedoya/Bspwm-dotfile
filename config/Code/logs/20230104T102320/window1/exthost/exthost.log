@@ -1,0 +1,31 @@
+2023-01-04 10:23:22.932 [info] Extension host with pid 46426 started
+2023-01-04 10:23:22.932 [info] Skipping acquiring lock for /home/luc/.config/Code/User/workspaceStorage/1ec3d9ee9c80f43209348eb23128c838.
+2023-01-04 10:23:23.458 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2023-01-04 10:23:23.459 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-01-04 10:23:23.459 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-01-04 10:23:23.460 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+2023-01-04 10:23:23.460 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: true, activationEvent: '*'
+2023-01-04 10:23:23.460 [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+2023-01-04 10:23:23.461 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+2023-01-04 10:23:23.461 [info] ExtensionService#_doActivateExtension Janne252.fontawesome-autocomplete, startup: true, activationEvent: '*'
+2023-01-04 10:23:23.461 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: true, activationEvent: '*'
+2023-01-04 10:23:23.462 [info] ExtensionService#_doActivateExtension Zignd.html-css-class-completion, startup: true, activationEvent: '*'
+2023-01-04 10:23:24.507 [info] ExtensionService#_doActivateExtension pranaygp.vscode-css-peek, startup: true, activationEvent: 'workspaceContains:**/*.css,**/*.scss,**/*.sass,**/*.less'
+2023-01-04 10:23:24.508 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-01-04 10:23:24.508 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-01-04 10:23:24.795 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-01-04 10:23:25.333 [info] Eager extensions activated
+2023-01-04 10:23:25.340 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-01-04 10:23:25.341 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2023-01-04 10:23:25.341 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-01-04 10:23:25.341 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2023-01-04 10:23:25.341 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2023-01-04 10:23:25.341 [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker, startup: false, activationEvent: 'onStartupFinished'
+2023-01-04 10:23:25.476 [error] Error: ENOENT: no such file or directory, open '/home/luc/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+2023-01-04 10:26:49.446 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2023-01-04 10:27:44.206 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-01-04 10:27:44.207 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-01-04 10:27:44.207 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-01-04 10:28:55.476 [info] Extension host terminating: received terminate message from renderer
+2023-01-04 10:28:55.546 [error] Error: ENOENT: no such file or directory, open '/home/luc/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+2023-01-04 10:28:55.552 [info] Extension host with pid 46426 exiting with code 0

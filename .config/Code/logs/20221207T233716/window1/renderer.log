@@ -1,4 +1,0 @@
-2022-12-07 23:37:22.059 [info] [perf] Render performance baseline is 36ms
-2022-12-07 23:56:18.470 [error] Cannot use 'in' operator to search for 'path' in z: TypeError: Cannot use 'in' operator to search for 'path' in z
-    at f (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:87:322)
-    at h (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:87:208)

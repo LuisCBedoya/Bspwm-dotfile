@@ -1,0 +1,6 @@
+2023-01-04 10:29:00.102 [info] Starting worker process with pid 50146 (type: fileWatcher, window: 1).
+2023-01-04 10:30:09.798 [info] Uninstalling extension from the profile: janne252.fontawesome-autocomplete@1.3.1 vscode-userdata:/home/luc/.vscode/extensions/extensions.json
+2023-01-04 10:30:09.968 [info] Marked extension as uninstalled janne252.fontawesome-autocomplete-1.3.1
+2023-01-04 10:30:10.255 [info] Successfully uninstalled extension from the profile janne252.fontawesome-autocomplete@1.3.1 vscode-userdata:/home/luc/.vscode/extensions/extensions.json
+2023-01-04 10:30:12.571 [info] Worker process with pid 50146 terminated normally (type: fileWatcher, window: 1).
+2023-01-04 10:30:13.771 [info] Starting worker process with pid 51043 (type: fileWatcher, window: 1).

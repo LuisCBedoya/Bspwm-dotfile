@@ -1,0 +1,921 @@
+[Server(51173) Eduford/] onInitialize
+[Server(51173) Eduford/] setupInitialStylemap
+[Server(51173) Eduford/] Document opened: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+css2?family=Poppins:wght@700&display=swap 490
+  html 17 21
+  head 35 39
+  meta 46 50
+  meta 73 77
+  meta 131 135
+  title 206 211
+  title 255 260
+  link 267 271
+  link 313 317
+  link 377 381
+  link 450 454
+  link 556 560
+  head 801 805
+  body 809 813
+  section 820 827
+  nav 857 860
+  a 875 876
+  img 896 899
+  a 929 930
+  div 945 948
+  i 999 1000
+  i 1044 1045
+  ul 1064 1066
+  li 1089 1091
+  a 1093 1094
+  a 1109 1110
+  li 1113 1115
+  li 1138 1140
+  a 1142 1143
+  a 1159 1160
+  li 1163 1165
+  li 1188 1190
+  a 1192 1193
+  a 1210 1211
+  li 1214 1216
+  li 1239 1241
+  a 1243 1244
+  a 1259 1260
+  li 1263 1265
+  li 1288 1290
+  a 1292 1293
+  a 1311 1312
+  li 1315 1317
+  ul 1337 1339
+  div 1355 1358
+  i 1373 1374
+  i 1417 1418
+  nav 1430 1433
+  div 1444 1447
+  h1 1479 1481
+  h1 1510 1512
+  p 1527 1528
+  br 1624 1626
+  p 1679 1680
+  a 1695 1696
+  a 1745 1746
+  div 1758 1761
+  h1 1772 1774
+  h1 1782 1784
+  section 1792 1799
+  section 1829 1836
+  h4 1862 1864
+  h4 1875 1877
+  p 1888 1889
+  br 1978 1980
+  p 2132 2133
+  div 2144 2147
+  i 2176 2177
+  i 2220 2221
+  i 2236 2237
+  i 2290 2291
+  i 2306 2307
+  i 2329 2330
+  i 2345 2346
+  i 2383 2384
+  div 2396 2399
+  section 2407 2414
+  script 2449 2455
+  script 2685 2691
+  body 2697 2701
+  html 2706 2710
+Invalid Selector
+nav-links 956
+  html 17 21
+  head 35 39
+  meta 46 50
+  meta 73 77
+  meta 131 135
+  title 206 211
+  title 255 260
+  link 267 271
+  link 313 317
+  link 377 381
+  link 450 454
+  link 556 560
+  head 801 805
+  body 809 813
+  section 820 827
+  nav 857 860
+  a 875 876
+  img 896 899
+  a 929 930
+  div 945 948
+nav-links is a "class"
+styles.css has 56 symbols
+  0:0    [5] *
+  6:0    [5] .header
+  16:0    [5] nav
+  23:0    [5] nav img
+  29:0    [5] .nav-links ul li
+  36:0    [5] .nav-links ul li a
+  42:0    [5] .nav-links ul li::after
+  52:0    [5] .nav-links ul li:hover::after
+  56:0    [5] .text-box
+  66:0    [5] .text-box h1
+  70:0    [5] .text-box p
+  76:0    [5] .hero-btn
+  88:0    [5] .hero-btn:hover
+  94:0    [5] nav .fa
+  98:0    [2] @media (max-width: 800px)
+  99:4    [5] .text-box h1
+  103:4    [5] .nav-links ul li
+  107:4    [5] .nav-links
+  119:4    [5] nav .fa
+  127:4    [5] .nav-links ul
+  134:0    [5] .course
+  140:0    [5] h1
+  144:0    [5] p
+  151:0    [5] .row
+  156:0    [5] .course-col
+  165:0    [5] h3
+  170:0    [5] .course-col:hover
+  173:0    [2] @media (max-width: 800px)
+  174:4    [5] .row
+  178:0    [5] .campus
+  185:0    [5] .campus-col
+  192:0    [5] .campus-col img
+  196:0    [5] .layer
+  206:0    [5] .layer:hover
+  209:0    [5] .layer h3
+  222:0    [5] .layer:hover h3
+  227:0    [5] .facilities
+  233:0    [5] .facilities-col
+  239:0    [5] .facilities-col img
+  243:0    [5] .facilities-col p
+  246:0    [5] .facilities-col h3
+  251:0    [5] .testimonials
+  257:0    [5] .testimonials-col
+  268:0    [5] .testimonials-col img
+  275:0    [5] .testimonials-col p
+  278:0    [5] .testimonials-col h3
+  282:0    [5] .testimonials-col .fa
+  285:0    [2] @media (max-width: 800px)
+  286:4    [5] .testimonials-col img
+  292:0    [5] .cta
+  302:0    [5] .cta h1
+  307:0    [2] @media (max-width: 800px)
+  308:4    [5] .cta h1
+  312:0    [5] .footer
+  318:0    [5] .footer h4
+  323:0    [5] .icons
+index.html 883
+  html 17 21
+  head 35 39
+  meta 46 50
+  meta 73 77
+  meta 131 135
+  title 206 211
+  title 255 260
+  link 267 271
+  link 313 317
+  link 377 381
+  link 450 454
+  link 556 560
+  head 801 805
+  body 809 813
+  section 820 827
+  nav 857 860
+  a 875 876
+  img 896 899
+  a 929 930
+  div 945 948
+  i 999 1000
+  i 1044 1045
+  ul 1064 1066
+  li 1089 1091
+  a 1093 1094
+  a 1109 1110
+  li 1113 1115
+  li 1138 1140
+  a 1142 1143
+  a 1159 1160
+  li 1163 1165
+  li 1188 1190
+  a 1192 1193
+  a 1210 1211
+  li 1214 1216
+  li 1239 1241
+  a 1243 1244
+  a 1259 1260
+  li 1263 1265
+  li 1288 1290
+  a 1292 1293
+  a 1311 1312
+  li 1315 1317
+  ul 1337 1339
+  div 1355 1358
+  i 1373 1374
+  i 1417 1418
+  nav 1430 1433
+  div 1444 1447
+  h1 1479 1481
+  h1 1510 1512
+  p 1527 1528
+  br 1624 1626
+  p 1679 1680
+  a 1695 1696
+  a 1745 1746
+  div 1758 1761
+  h1 1772 1774
+  h1 1782 1784
+  section 1792 1799
+  section 1829 1836
+  h4 1862 1864
+  h4 1875 1877
+  p 1888 1889
+  br 1978 1980
+  p 2132 2133
+  div 2144 2147
+  i 2176 2177
+  i 2220 2221
+  i 2236 2237
+  i 2290 2291
+  i 2306 2307
+  i 2329 2330
+  i 2345 2346
+  i 2383 2384
+  div 2396 2399
+  section 2407 2414
+  script 2449 2455
+  script 2685 2691
+  body 2697 2701
+  html 2706 2710
+Invalid Selector
+sub-header 835
+  html 17 21
+  head 35 39
+  meta 46 50
+  meta 73 77
+  meta 131 135
+  title 206 211
+  title 255 260
+  link 267 271
+  link 313 317
+  link 377 381
+  link 450 454
+  link 556 560
+  head 801 805
+  body 809 813
+  section 820 827
+sub-header is a "class"
+styles.css has 56 symbols
+  0:0    [5] *
+  6:0    [5] .header
+  16:0    [5] nav
+  23:0    [5] nav img
+  29:0    [5] .nav-links ul li
+  36:0    [5] .nav-links ul li a
+  42:0    [5] .nav-links ul li::after
+  52:0    [5] .nav-links ul li:hover::after
+  56:0    [5] .text-box
+  66:0    [5] .text-box h1
+  70:0    [5] .text-box p
+  76:0    [5] .hero-btn
+  88:0    [5] .hero-btn:hover
+  94:0    [5] nav .fa
+  98:0    [2] @media (max-width: 800px)
+  99:4    [5] .text-box h1
+  103:4    [5] .nav-links ul li
+  107:4    [5] .nav-links
+  119:4    [5] nav .fa
+  127:4    [5] .nav-links ul
+  134:0    [5] .course
+  140:0    [5] h1
+  144:0    [5] p
+  151:0    [5] .row
+  156:0    [5] .course-col
+  165:0    [5] h3
+  170:0    [5] .course-col:hover
+  173:0    [2] @media (max-width: 800px)
+  174:4    [5] .row
+  178:0    [5] .campus
+  185:0    [5] .campus-col
+  192:0    [5] .campus-col img
+  196:0    [5] .layer
+  206:0    [5] .layer:hover
+  209:0    [5] .layer h3
+  222:0    [5] .layer:hover h3
+  227:0    [5] .facilities
+  233:0    [5] .facilities-col
+  239:0    [5] .facilities-col img
+  243:0    [5] .facilities-col p
+  246:0    [5] .facilities-col h3
+  251:0    [5] .testimonials
+  257:0    [5] .testimonials-col
+  268:0    [5] .testimonials-col img
+  275:0    [5] .testimonials-col p
+  278:0    [5] .testimonials-col h3
+  282:0    [5] .testimonials-col .fa
+  285:0    [2] @media (max-width: 800px)
+  286:4    [5] .testimonials-col img
+  292:0    [5] .cta
+  302:0    [5] .cta h1
+  307:0    [2] @media (max-width: 800px)
+  308:4    [5] .cta h1
+  312:0    [5] .footer
+  318:0    [5] .footer h4
+  323:0    [5] .icons
+sub-header 835
+  html 17 21
+  head 35 39
+  meta 46 50
+  meta 73 77
+  meta 131 135
+  title 206 211
+  title 255 260
+  link 267 271
+  link 313 317
+  link 377 381
+  link 450 454
+  link 556 560
+  head 801 805
+  body 809 813
+  section 820 827
+sub-header is a "class"
+styles.css has 56 symbols
+  0:0    [5] *
+  6:0    [5] .header
+  16:0    [5] nav
+  23:0    [5] nav img
+  29:0    [5] .nav-links ul li
+  36:0    [5] .nav-links ul li a
+  42:0    [5] .nav-links ul li::after
+  52:0    [5] .nav-links ul li:hover::after
+  56:0    [5] .text-box
+  66:0    [5] .text-box h1
+  70:0    [5] .text-box p
+  76:0    [5] .hero-btn
+  88:0    [5] .hero-btn:hover
+  94:0    [5] nav .fa
+  98:0    [2] @media (max-width: 800px)
+  99:4    [5] .text-box h1
+  103:4    [5] .nav-links ul li
+  107:4    [5] .nav-links
+  119:4    [5] nav .fa
+  127:4    [5] .nav-links ul
+  134:0    [5] .course
+  140:0    [5] h1
+  144:0    [5] p
+  151:0    [5] .row
+  156:0    [5] .course-col
+  165:0    [5] h3
+  170:0    [5] .course-col:hover
+  173:0    [2] @media (max-width: 800px)
+  174:4    [5] .row
+  178:0    [5] .campus
+  185:0    [5] .campus-col
+  192:0    [5] .campus-col img
+  196:0    [5] .layer
+  206:0    [5] .layer:hover
+  209:0    [5] .layer h3
+  222:0    [5] .layer:hover h3
+  227:0    [5] .facilities
+  233:0    [5] .facilities-col
+  239:0    [5] .facilities-col img
+  243:0    [5] .facilities-col p
+  246:0    [5] .facilities-col h3
+  251:0    [5] .testimonials
+  257:0    [5] .testimonials-col
+  268:0    [5] .testimonials-col img
+  275:0    [5] .testimonials-col p
+  278:0    [5] .testimonials-col h3
+  282:0    [5] .testimonials-col .fa
+  285:0    [2] @media (max-width: 800px)
+  286:4    [5] .testimonials-col img
+  292:0    [5] .cta
+  302:0    [5] .cta h1
+  307:0    [2] @media (max-width: 800px)
+  308:4    [5] .cta h1
+  312:0    [5] .footer
+  318:0    [5] .footer h4
+  323:0    [5] .icons
+sub-header 835
+  html 17 21
+  head 35 39
+  meta 46 50
+  meta 73 77
+  meta 131 135
+  title 206 211
+  title 255 260
+  link 267 271
+  link 313 317
+  link 377 381
+  link 450 454
+  link 556 560
+  head 801 805
+  body 809 813
+  section 820 827
+sub-header is a "class"
+styles.css has 56 symbols
+  0:0    [5] *
+  6:0    [5] .header
+  16:0    [5] nav
+  23:0    [5] nav img
+  29:0    [5] .nav-links ul li
+  36:0    [5] .nav-links ul li a
+  42:0    [5] .nav-links ul li::after
+  52:0    [5] .nav-links ul li:hover::after
+  56:0    [5] .text-box
+  66:0    [5] .text-box h1
+  70:0    [5] .text-box p
+  76:0    [5] .hero-btn
+  88:0    [5] .hero-btn:hover
+  94:0    [5] nav .fa
+  98:0    [2] @media (max-width: 800px)
+  99:4    [5] .text-box h1
+  103:4    [5] .nav-links ul li
+  107:4    [5] .nav-links
+  119:4    [5] nav .fa
+  127:4    [5] .nav-links ul
+  134:0    [5] .course
+  140:0    [5] h1
+  144:0    [5] p
+  151:0    [5] .row
+  156:0    [5] .course-col
+  165:0    [5] h3
+  170:0    [5] .course-col:hover
+  173:0    [2] @media (max-width: 800px)
+  174:4    [5] .row
+  178:0    [5] .campus
+  185:0    [5] .campus-col
+  192:0    [5] .campus-col img
+  196:0    [5] .layer
+  206:0    [5] .layer:hover
+  209:0    [5] .layer h3
+  222:0    [5] .layer:hover h3
+  227:0    [5] .facilities
+  233:0    [5] .facilities-col
+  239:0    [5] .facilities-col img
+  243:0    [5] .facilities-col p
+  246:0    [5] .facilities-col h3
+  251:0    [5] .testimonials
+  257:0    [5] .testimonials-col
+  268:0    [5] .testimonials-col img
+  275:0    [5] .testimonials-col p
+  278:0    [5] .testimonials-col h3
+  282:0    [5] .testimonials-col .fa
+  285:0    [2] @media (max-width: 800px)
+  286:4    [5] .testimonials-col img
+  292:0    [5] .cta
+  302:0    [5] .cta h1
+  307:0    [2] @media (max-width: 800px)
+  308:4    [5] .cta h1
+  312:0    [5] .footer
+  318:0    [5] .footer h4
+  323:0    [5] .icons
+sub-header 835
+  html 17 21
+  head 35 39
+  meta 46 50
+  meta 73 77
+  meta 131 135
+  title 206 211
+  title 255 260
+  link 267 271
+  link 313 317
+  link 377 381
+  link 450 454
+  link 556 560
+  head 801 805
+  body 809 813
+  section 820 827
+sub-header is a "class"
+styles.css has 56 symbols
+  0:0    [5] *
+  6:0    [5] .header
+  16:0    [5] nav
+  23:0    [5] nav img
+  29:0    [5] .nav-links ul li
+  36:0    [5] .nav-links ul li a
+  42:0    [5] .nav-links ul li::after
+  52:0    [5] .nav-links ul li:hover::after
+  56:0    [5] .text-box
+  66:0    [5] .text-box h1
+  70:0    [5] .text-box p
+  76:0    [5] .hero-btn
+  88:0    [5] .hero-btn:hover
+  94:0    [5] nav .fa
+  98:0    [2] @media (max-width: 800px)
+  99:4    [5] .text-box h1
+  103:4    [5] .nav-links ul li
+  107:4    [5] .nav-links
+  119:4    [5] nav .fa
+  127:4    [5] .nav-links ul
+  134:0    [5] .course
+  140:0    [5] h1
+  144:0    [5] p
+  151:0    [5] .row
+  156:0    [5] .course-col
+  165:0    [5] h3
+  170:0    [5] .course-col:hover
+  173:0    [2] @media (max-width: 800px)
+  174:4    [5] .row
+  178:0    [5] .campus
+  185:0    [5] .campus-col
+  192:0    [5] .campus-col img
+  196:0    [5] .layer
+  206:0    [5] .layer:hover
+  209:0    [5] .layer h3
+  222:0    [5] .layer:hover h3
+  227:0    [5] .facilities
+  233:0    [5] .facilities-col
+  239:0    [5] .facilities-col img
+  243:0    [5] .facilities-col p
+  246:0    [5] .facilities-col h3
+  251:0    [5] .testimonials
+  257:0    [5] .testimonials-col
+  268:0    [5] .testimonials-col img
+  275:0    [5] .testimonials-col p
+  278:0    [5] .testimonials-col h3
+  282:0    [5] .testimonials-col .fa
+  285:0    [2] @media (max-width: 800px)
+  286:4    [5] .testimonials-col img
+  292:0    [5] .cta
+  302:0    [5] .cta h1
+  307:0    [2] @media (max-width: 800px)
+  308:4    [5] .cta h1
+  312:0    [5] .footer
+  318:0    [5] .footer h4
+  323:0    [5] .icons
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+>CONTACT</a 1301
+  html 17 21
+  head 35 39
+  meta 46 50
+  meta 73 77
+  meta 131 135
+  title 206 211
+  title 255 260
+  link 267 271
+  link 313 317
+  link 377 381
+  link 450 454
+  link 556 560
+  head 801 805
+  body 809 813
+  section 820 827
+  nav 857 860
+  a 875 876
+  img 896 899
+  a 929 930
+  div 945 948
+  i 999 1000
+  i 1044 1045
+  ul 1064 1066
+  li 1089 1091
+  a 1093 1094
+  a 1109 1110
+  li 1113 1115
+  li 1138 1140
+  a 1142 1143
+  a 1159 1160
+  li 1163 1165
+  li 1188 1190
+  a 1192 1193
+  a 1210 1211
+  li 1214 1216
+  li 1239 1241
+  a 1243 1244
+  a 1259 1260
+  li 1263 1265
+  li 1288 1290
+  a 1292 1293
+  a 1311 1312
+  li 1315 1317
+  ul 1337 1339
+  div 1355 1358
+  i 1373 1374
+  i 1417 1418
+  nav 1430 1433
+  h1 1444 1446
+  h1 1454 1456
+  section 1464 1471
+  section 1501 1508
+  div 1536 1539
+  div 1566 1569
+  h1 1606 1608
+  h1 1648 1650
+  p 1669 1670
+  p 1883 1884
+  a 1903 1904
+  a 1926 1927
+  div 1943 1946
+  div 1961 1964
+  img 2001 2004
+  div 2055 2058
+  div 2070 2073
+  section 2081 2088
+  section 2117 2124
+  h4 2150 2152
+  h4 2163 2165
+  p 2176 2177
+  br 2266 2268
+  p 2420 2421
+  div 2432 2435
+  i 2464 2465
+  i 2508 2509
+  i 2524 2525
+  i 2578 2579
+  i 2594 2595
+  i 2617 2618
+  i 2633 2634
+  i 2671 2672
+  div 2684 2687
+  section 2695 2702
+  script 2737 2743
+  script 2973 2979
+  body 2985 2989
+  html 2994 2998
+Invalid Selector
+li 1214
+  html 17 21
+  head 35 39
+  meta 46 50
+  meta 73 77
+  meta 131 135
+  title 206 211
+  title 255 260
+  link 267 271
+  link 313 317
+  link 377 381
+  link 450 454
+  link 556 560
+  head 801 805
+  body 809 813
+  section 820 827
+  nav 857 860
+  a 875 876
+  img 896 899
+  a 929 930
+  div 945 948
+  i 999 1000
+  i 1044 1045
+  ul 1064 1066
+  li 1089 1091
+  a 1093 1094
+  a 1109 1110
+  li 1113 1115
+  li 1138 1140
+  a 1142 1143
+  a 1159 1160
+  li 1163 1165
+  li 1188 1190
+  a 1192 1193
+  a 1210 1211
+  li 1214 1216
+li is a "html tag"
+styles.css has 56 symbols
+  0:0    [5] *
+  6:0    [5] .header
+  16:0    [5] nav
+  23:0    [5] nav img
+  29:0    [5] .nav-links ul li
+  36:0    [5] .nav-links ul li a
+  42:0    [5] .nav-links ul li::after
+  52:0    [5] .nav-links ul li:hover::after
+  56:0    [5] .text-box
+  66:0    [5] .text-box h1
+  70:0    [5] .text-box p
+  76:0    [5] .hero-btn
+  88:0    [5] .hero-btn:hover
+  94:0    [5] nav .fa
+  98:0    [2] @media (max-width: 800px)
+  99:4    [5] .text-box h1
+  103:4    [5] .nav-links ul li
+  107:4    [5] .nav-links
+  119:4    [5] nav .fa
+  127:4    [5] .nav-links ul
+  134:0    [5] .course
+  140:0    [5] h1
+  144:0    [5] p
+  151:0    [5] .row
+  156:0    [5] .course-col
+  165:0    [5] h3
+  170:0    [5] .course-col:hover
+  173:0    [2] @media (max-width: 800px)
+  174:4    [5] .row
+  178:0    [5] .campus
+  185:0    [5] .campus-col
+  192:0    [5] .campus-col img
+  196:0    [5] .layer
+  206:0    [5] .layer:hover
+  209:0    [5] .layer h3
+  222:0    [5] .layer:hover h3
+  227:0    [5] .facilities
+  233:0    [5] .facilities-col
+  239:0    [5] .facilities-col img
+  243:0    [5] .facilities-col p
+  246:0    [5] .facilities-col h3
+  251:0    [5] .testimonials
+  257:0    [5] .testimonials-col
+  268:0    [5] .testimonials-col img
+  275:0    [5] .testimonials-col p
+  278:0    [5] .testimonials-col h3
+  282:0    [5] .testimonials-col .fa
+  285:0    [2] @media (max-width: 800px)
+  286:4    [5] .testimonials-col img
+  292:0    [5] .cta
+  302:0    [5] .cta h1
+  307:0    [2] @media (max-width: 800px)
+  308:4    [5] .cta h1
+  312:0    [5] .footer
+  318:0    [5] .footer h4
+  323:0    [5] .icons
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html
+[Server(51173) Eduford/] Document changed: index.html

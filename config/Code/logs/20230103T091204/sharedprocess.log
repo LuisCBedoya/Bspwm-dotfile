@@ -1,0 +1,9 @@
+2023-01-03 09:12:12.100 [info] Starting worker process with pid 4230 (type: fileWatcher, window: 1).
+2023-01-03 09:15:40.873 [info] Worker process with pid 4230 terminated normally (type: fileWatcher, window: 1).
+2023-01-03 09:15:41.875 [info] Starting worker process with pid 6916 (type: fileWatcher, window: 1).
+2023-01-03 09:27:18.851 [info] Getting Manifest... ritwickdey.liveserver
+2023-01-03 09:27:18.858 [info] Installing extension: ritwickdey.liveserver
+2023-01-03 09:27:24.905 [info] Extracted extension to /home/luc/.vscode/extensions/.78b1ba45-bd17-4839-8374-74dd1b29b9db: ritwickdey.liveserver
+2023-01-03 09:27:25.016 [info] Renamed to /home/luc/.vscode/extensions/ritwickdey.liveserver-5.7.9
+2023-01-03 09:27:25.023 [info] Extracting completed. ritwickdey.liveserver
+2023-01-03 09:27:25.069 [info] Extension installed successfully: ritwickdey.liveserver

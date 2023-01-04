@@ -1,0 +1,8 @@
+{
+    "workbench.startupEditor": "none",
+    "terminal.integrated.defaultProfile.osx": "zsh",
+    "terminal.external.osxExec": "iTerm.app",
+    "terminal.integrated.fontFamily": "Hack Nerd Font",
+    "editor.cursorBlinking": "expand",
+    "workbench.iconTheme": "material-icon-theme",
+}

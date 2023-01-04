@@ -1,0 +1,11 @@
+2022-12-31 16:29:24.872 [info] Starting worker process with pid 41106 (type: fileWatcher, window: 1).
+2022-12-31 16:40:05.218 [info] Getting Manifest... vscodevim.vim
+2022-12-31 16:40:05.232 [info] Installing extension: vscodevim.vim
+2022-12-31 16:40:07.633 [info] Extracted extension to /home/luc/.vscode/extensions/.17a51606-e3f0-46d1-ba70-c75d52b9204d: vscodevim.vim
+2022-12-31 16:40:07.684 [info] Renamed to /home/luc/.vscode/extensions/vscodevim.vim-1.24.3
+2022-12-31 16:40:07.687 [info] Extracting completed. vscodevim.vim
+2022-12-31 16:40:07.724 [info] Extension installed successfully: vscodevim.vim
+2022-12-31 16:40:19.899 [info] Worker process with pid 41106 terminated normally (type: fileWatcher, window: 1).
+2022-12-31 16:40:20.947 [info] Starting worker process with pid 47096 (type: fileWatcher, window: 1).
+2022-12-31 16:41:29.473 [info] Worker process with pid 47096 terminated normally (type: fileWatcher, window: 1).
+2022-12-31 16:41:30.922 [info] Starting worker process with pid 47724 (type: fileWatcher, window: 1).

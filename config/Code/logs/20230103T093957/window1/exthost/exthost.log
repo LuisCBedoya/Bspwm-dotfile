@@ -1,0 +1,48 @@
+2023-01-03 09:39:59.083 [info] Extension host with pid 19679 started
+2023-01-03 09:39:59.083 [info] Skipping acquiring lock for /home/luc/.config/Code/User/workspaceStorage/1ec3d9ee9c80f43209348eb23128c838.
+2023-01-03 09:39:59.171 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2023-01-03 09:39:59.172 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-01-03 09:39:59.172 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-01-03 09:39:59.172 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: true, activationEvent: '*'
+2023-01-03 09:39:59.490 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-01-03 09:39:59.491 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-01-03 09:39:59.617 [info] Eager extensions activated
+2023-01-03 09:39:59.652 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-01-03 09:39:59.653 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2023-01-03 09:39:59.653 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-01-03 09:39:59.653 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2023-01-03 09:39:59.654 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2023-01-03 09:39:59.654 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-01-03 09:40:00.473 [error] Error: ENOENT: no such file or directory, open '/home/luc/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+2023-01-03 09:41:29.203 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2023-01-03 11:33:40.276 [info] ExtensionService#_doActivateExtension vscode.simple-browser, startup: false, activationEvent: 'onOpenExternalUri:https'
+2023-01-03 12:46:10.969 [info] Extension host terminating: received terminate message from renderer
+2023-01-03 12:46:11.589 [error] TypeError: r.some is not a function
+    at Function.saveToDisk (/home/luc/.vscode/extensions/vscodevim.vim-1.24.3/src/register/register.ts:326:30)
+    at Object.e.deactivate (/home/luc/.vscode/extensions/vscodevim.vim-1.24.3/extension.ts:65:18)
+    at d.X (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:11333)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9301
+    at Array.map (<anonymous>)
+    at d.Q (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9288)
+    at d.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:9563)
+    at f.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:110:1397)
+    at b (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:17815)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:15750
+    at d.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+    at w.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+    at g.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+    at h.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:14314)
+    at c.y (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:17324)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:15795
+    at d.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+    at w.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2029)
+    at g.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1667)
+    at g.acceptChunk (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:12045)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:11332
+    at Socket.l (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:72:19792)
+    at Socket.emit (node:events:526:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23)
+2023-01-03 12:46:11.599 [info] Extension host with pid 19679 exiting with code 0

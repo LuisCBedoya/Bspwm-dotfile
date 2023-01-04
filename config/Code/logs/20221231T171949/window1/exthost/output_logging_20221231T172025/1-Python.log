@@ -1,0 +1,10 @@
+El experimento \"pythonPromptNewToolsExt\" está activo
+LSP Notebooks experiment is enabled
+LSP Notebooks interactive window support is enabled
+> conda info --json
+Ruta de acceso del intérprete de Python: /bin/python
+> /bin/python ~/.vscode/extensions/ms-python.python-2022.21.13491005/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2022.21.13491005/pythonFiles/interpreterInfo.py
+> /sbin/python ~/.vscode/extensions/ms-python.python-2022.21.13491005/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2022.21.13491005/pythonFiles/interpreterInfo.py
+> /usr/bin/python ~/.vscode/extensions/ms-python.python-2022.21.13491005/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2022.21.13491005/pythonFiles/interpreterInfo.py
+> /usr/sbin/python ~/.vscode/extensions/ms-python.python-2022.21.13491005/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2022.21.13491005/pythonFiles/interpreterInfo.py
+Iniciando el servidor de lenguaje Pylance.
